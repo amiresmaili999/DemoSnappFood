@@ -1,0 +1,353 @@
+.border{
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+.border2{
+    border: 1px solid white;
+    border-radius: 16px;
+}
+  
+.hh{
+    height: 200px;
+  background-color: blanchedalmond;
+}
+
+#FA{
+    font-size: 25px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: -35px;
+    color: white;
+}
+
+#login-border{
+    border: 1px solid white;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 35px;
+    position: absolute;
+
+}
+
+#header{
+    height: 600px;
+    border-radius: 15px;
+    width: 1460px;
+    background-image: url("assets/img/پیتزا.jpg");
+    background-repeat: no-repeat;
+}
+
+#body{
+    height: 2000px;
+    width: 1460px;
+    margin-top: 5px;
+    
+}
+
+#footer{
+    border-radius: 15px;
+    
+    width: 1460px;
+    background-color: rgb(222, 222, 222);
+}
+
+#menu{
+    width:1460px;
+    height: 100px;
+}
+
+#search{
+    height: 200px;
+    width: 1460px;
+}
+
+#demo{
+    width: 900px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#logo{
+    height: 100px;
+    width: 250px;
+    color: white;
+    margin-top: 10px;
+    position: absolute;
+    margin-left: 10px;
+}
+
+#menu-detail{
+    width: 200px;
+    height: 100px;
+    float: right;
+}
+
+#search-box{
+    height:150px ;
+    width:600px ;
+    margin: 0 auto;
+    margin-top: 100px;
+    /* margin-bottom: 40px; */
+
+}
+
+.img-phon{
+    margin-bottom: 500px;
+    margin-top: 10px;
+    margin-left: 100px;
+} 
+
+#demo-box{
+    height: 250px;
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+
+#body-paragraf{
+    width: 1460;
+    height: 100px;
+}
+
+#body-subscibe{
+    width: 1460;
+    height: 800px;
+    background-color: rgb(222, 222, 222);
+    border-radius: 15px;
+    /* margin-top: 100px; */
+}
+
+#subscribe{
+    height: 200px;
+    width: 800px;
+  margin: 0 auto;
+  margin-top: 0px;
+  background-color: rgb(222, 222, 222);
+}
+
+#subscribe2{
+    height: 400px;
+    width: 800px;
+  margin: 0 auto;
+  border-radius: 15px;
+  margin-top: 0px;
+  background-color: white;
+}
+ 
+#body-product{
+    height: 595px;
+    width: 1460;
+    margin-right: 50px;
+}
+
+#btn-border{
+    border: 1px solid white;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin-left: 70px;
+    margin-top: 35px;
+    position: absolute;
+}
+
+#btn-lang{
+    font-size: 25px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 25px;
+    color: white;
+}
+
+.input-text{
+    height: 40px;
+    width: 100px;
+    float: right;  
+    border-radius: 10px;
+    direction: rtl;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.btn-text{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.img{
+    border: 5px solid white;
+    overflow: hidden;
+    height: 100px;
+    width: 150px;
+    float: right;
+    border-radius: 5000px;
+    margin: 0 auto;
+    margin-right: 30px;
+    margin-top: 50px;
+    
+    
+}
+
+#img-sub{
+    overflow: hidden;
+    width: 190px;
+    height: 380px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+#text-sub{
+    width: 400px;
+    height: 600px;
+    float: right;
+}
+
+.text{
+direction: rtl;
+margin-right: 5px;
+}
+
+.text2{
+    margin-top: 100px;
+    direction: rtl;
+    margin-right: 5px;
+} 
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.input{
+    height: 40px;
+ 
+}
+
+.img-product{
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.img-food{
+    
+    
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.img-body-food{
+    height: 850px;
+}
+
+#img3{
+    width: 650px;
+    height: 400px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+}
+
+#restorans{
+    width: 750px;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.text-food{
+    direction: rtl;
+    margin-right: 10px;
+
+}
+
+.border-food{
+    height: 400px;
+
+}
+
+.img-restorans{
+    float: right;
+    margin-right: 25px;
+}
+
+.text3{
+    direction: rtl;
+    text-align: center;
+}
+
+.footer-all{
+    height: 450px;
+    width: 1460px;
+}
+
+.footer-btm-4{
+    float: left;
+    height: 300px;
+    width: 350px;
+    margin-left: 10px;
+}
+
+.citys{
+    border: 1px solid white;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 10px;
+    color: rgb(65, 65, 65);
+    float: right;
+    margin-right: 5px;
+    opacity: 0.7;
+    margin-top: 15px;
+    
+}
+
+#footer-header{
+    height: 450px;
+    width: 1460px;
+}
+
+#footer-text{
+    height: 200px;
+    width: 1460px;
+}
+
+#footer-btm{
+    height: 450px;
+    width: 1460px;
+}
+
+.center{
+    text-align: center;
+}
+
+.img-logo{
+    margin-right: 20px;
+}
+
+.div-logo{
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+p{
+    color: rgb(156, 102, 166);
+}
